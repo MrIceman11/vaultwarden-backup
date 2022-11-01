@@ -1,11 +1,11 @@
 # vaultwarden-backup
 Backup-Script Vaultwarden
 
-#REQUIREMENTS
+REQUIREMENTS
 -Vaultwarden Docker Container on Linux
 -Hetzner Storage Box / or other FTP server
 
-#INSTALL
+INSTALL
 -Edit variabel what you need
 
 #Have fun
